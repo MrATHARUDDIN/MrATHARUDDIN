@@ -9,6 +9,16 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **atharuddin.bd6@gmail.com**
+  br
+## :muscle: My Goal_
+
+<br />
+<br />
+<br />
+<h3 align="center">My Goal is became a skilful developer <br/> and Make a giant tech Company.</h3>
+<br />
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
