@@ -4,10 +4,15 @@
 <h1 align="center">Hi 👋, I'm Athar Uddin</h1>
 <h3 align="center">A Junior Web Developer.</h3>
 <br />
-- 🔭 I’m currently working on React Js
-- 🤝 I’m looking for working with a It Company
+
+- 🔭 I’m currently working on **React**
+
 - 🌱 I’m currently learning **Next Js.**
+
+- 🤝 I’m looking for Working **With a Company**
+
 - 💬 Ask me about **React**
+
 - 📫 How to reach me **atharuddin.bd6@gmail.com**
 <br />
 <br />
