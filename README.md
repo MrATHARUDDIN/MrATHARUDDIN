@@ -3,7 +3,6 @@
 <br />
 <h1 align="center">Hi 👋, I'm Athar Uddin</h1>
 <h3 align="center">A Junior Web Developer.</h3>
-<img align="right" alt="Coding" width="400" src="">
 <br />
 - 🌱 I’m currently learning **Next Js.**
 
